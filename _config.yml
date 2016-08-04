@@ -1,6 +1,9 @@
 name: DrBalls.net
 layout_spectrum: 0.715497396746792
 typography_spectrum: 0.08267829925822301
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#E8E595'
@@ -12,3 +15,10 @@ color:
   lightness: 0.16445414083481746
   saturation: 0.8785469027187749
   rhythmicContrast: 0.5369498043704026
+title: ''
+author:
+  name: Wesley K Alexander
+  url: ''
+  email: ''
+content_rating:
+  adult: false
