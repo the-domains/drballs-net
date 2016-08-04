@@ -14,8 +14,8 @@ keywords:
   - intelligence-gathering
   - behind-the-scenes
 title: 'Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space'
-datePublished: '2016-08-04T12:18:57.687Z'
-dateModified: '2016-08-04T12:18:57.355Z'
+datePublished: '2016-08-04T12:19:42.555Z'
+dateModified: '2016-08-04T12:19:15.467Z'
 publisher:
   name: PetaPixel
   domain: petapixel.com
@@ -34,7 +34,7 @@ description: >-
   cruising and intelligence-gathering altitude of 70,000 feet above the ground,
   temperatures outside the plane fall to 70 degrees below zero.
 via: {}
-starred: false
+starred: true
 sourcePath: >-
   _posts/2016-08-04-assignment-of-a-lifetime-riding-in-a-u-2-spy-plane-at-the-e.md
 _type: MediaObject
