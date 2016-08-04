@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[DrBalls.net]]></title>
         <description><![CDATA[DrBalls.net]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/drballs-net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 12:19:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 12:19:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/drballs-net/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Moleskine's Comprehensive Smart Writing Set]]></title>
             <description><![CDATA[<article><h1>Moleskine's Comprehensive Smart Writing Set</h1><p>At a conference on productivity-which touched on everything from the importance of tech-free alone time to the educational and emotional benefits of writing by hand (as outlined in a series of studies on the subject)- Moleskine unveiled their latest analog-to-digital wonder.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/88246302c4146bab7671eb9fd40a7ff184af1b48.jpg"></article>]]></description>
             <link>http://www.coolhunting.com/tech/moleskine-smart-writing-set</link>
             <guid isPermaLink="false">a200505a-5d25-43f3-9b0e-337e3a739206</guid>
+            <pubDate>Thu, 04 Aug 2016 12:18:57 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[7 Amazing Photos To Celebrate National Parks Week - Moment]]></title>
+            <description><![CDATA[<article><h1>7 Amazing Photos To Celebrate National Parks Week - Moment</h1><p>It's National Parks Week! This year is a big one to celebrate as the National Park Service celebrates its 100th birthday! That's 100 years of road trips out west, swimming in lakes, climbing mountains, sharing the roadways with roaming wildlife and camping with friends and family.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4c5bb90ced78cfeb04f0a6e320408110f333e39.jpg"></article>]]></description>
+            <link>http://momentlens.co/momentist/2016/04/18/national-parks-week-celebrate/?utm_campaign=The+Momentist+%2F%2F+7+Amazing+Photos+to+Celebrate+National+Parks+Week+%28nWimq8%29&amp;utm_medium=email&amp;_ke=amVmZkB0aGVncmlkLmlv&amp;utm_source=Momentist+%2B+Customers+%28Full+Segment%29+-+Customers%2C+Not+Active&amp;omhide=true</link>
+            <guid isPermaLink="false">f8838c14-c33f-4a98-953c-68af33c5e41b</guid>
             <pubDate>Thu, 04 Aug 2016 12:18:57 GMT</pubDate>
         </item>
     </channel>
