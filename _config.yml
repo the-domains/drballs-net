@@ -1,0 +1,14 @@
+name: DrBalls.net
+layout_spectrum: 0.715497396746792
+typography_spectrum: 0.08267829925822301
+color:
+  brandColors:
+    - '#E8E595'
+    - '#D0A825'
+    - '#40627C'
+    - '#26393D'
+    - '#FFFAE4'
+  brandStrength: 0.0884749863395945
+  lightness: 0.16445414083481746
+  saturation: 0.8785469027187749
+  rhythmicContrast: 0.5369498043704026
